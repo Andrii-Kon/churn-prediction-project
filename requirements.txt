@@ -1,0 +1,17 @@
+# Core data manipulation library
+pandas==2.2.2
+
+# Core machine learning library
+scikit-learn==1.5.0
+
+# --- Key Dependencies ---
+# These are installed automatically but are good to list for clarity
+
+# Fundamental package for scientific computing with Python
+numpy==1.26.4
+
+# Library used for scientific and technical computing
+scipy==1.13.1
+
+# Tools to provide parallel computing
+joblib==1.4.2

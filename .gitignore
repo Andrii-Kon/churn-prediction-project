@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+.env
+
+# IDE-specific files (JetBrains)
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+*.csv
+*.data
+
+# Build artifacts
+/dist/
+/build/
